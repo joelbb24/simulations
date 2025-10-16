@@ -28,8 +28,8 @@ import random
 from pygame import gfxdraw
 
 # -------- Parameters ----------
-SCREEN_W = 1000
-SCREEN_H = 500
+SCREEN_W = 1080
+SCREEN_H = 900
 FPS = 60
 
 # Physical-ish parameters (all in same arbitrary length units)
